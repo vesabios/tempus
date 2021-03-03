@@ -30,15 +30,13 @@ For MacOS Versions 10.9 - 10.13 (Hoping to find a fix to make it work on modern 
 
 ## Software
 
-This software was written in C++ using <a href="https://libcinder.org/">Cinder</a>. It was written sporadically over a period of many years. The code is garbage and needs to be refactored. 
+This software was written in C++ using <a href="https://libcinder.org/">Cinder</a>. It was written sporadically over a period of many years. 
 
 It is compiled for MacOS Version 10.9 (Mavericks) or higher. There is a Windows version coming at some point.
 
 UPDATE: There is an unresolved bug in Cinder that causes it to show a black screen on MacOS Version 10.15 or higher.
  
-It uses OpenGL and is not optimized, and I make no guarantees about whether or not it will heat up your GPU. 
-
-If you have trouble using it or installing it, I'm sorry - I'm not a hardcore app developer by trade.
+If you have trouble using it or installing it, I'm sorry!
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
