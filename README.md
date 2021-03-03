@@ -12,7 +12,7 @@ Version 0.9 Beta </br>
 
 ## Download 
 
-<a download="Release/tempus_0.9.zip">Click this link to see the most recent release</a>
+<a download="Release/">Click this link for the most recent release</a>
 
 
 ## Presentation 
