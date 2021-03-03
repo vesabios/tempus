@@ -5,10 +5,14 @@
 
 A clock and solar calendar screensaver.
 
-
-
 Version 0.9 Beta </br>
 © 2018-2021 S. Mason, All rights reserved.
+
+
+
+## Download 
+
+<a href="Release/Tempus_0.9.zip">Click this link to download the most recent release</a>
 
 
 ## Presentation 
