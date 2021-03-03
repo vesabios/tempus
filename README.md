@@ -3,7 +3,7 @@
 A sidereal clock and calendar screensaver.
 
 Version 0.9 Beta
-© 2021 Steve Mason, All rights reserved.
+© 2018-2021 S. Mason, All rights reserved.
 
 
 ## Presentation 
@@ -19,7 +19,7 @@ Version 0.9 Beta
 
 This software was written in C++ using <a href="https://libcinder.org/">Cinder</a>. It was written sporadically over a period of many years. The code is garbage and needs to be refactored. 
 
-It is compiled for MacOS Version 10.9 or higher. There is a Windows version coming at some point.
+It is compiled for MacOS Version 10.7 or higher. There is a Windows version coming at some point.
 
 It uses OpenGL and is not optimized, and I make no guarantees about whether or not it will heat up your GPU. 
 
