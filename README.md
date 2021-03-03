@@ -32,7 +32,7 @@ Version 0.9 Beta </br>
 
 This software was written in C++ using <a href="https://libcinder.org/">Cinder</a>. It was written sporadically over a period of many years. The code is garbage and needs to be refactored. 
 
-It is compiled for MacOS Version 10.7 or higher. There is a Windows version coming at some point.
+It is compiled for MacOS Version 10.9 (Mavericks) or higher. There is a Windows version coming at some point.
 
 It uses OpenGL and is not optimized, and I make no guarantees about whether or not it will heat up your GPU. 
 
