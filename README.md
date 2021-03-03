@@ -3,7 +3,9 @@
 <img src="img/tempus_ssA.jpeg">
 
 
-A sidereal clock and calendar screensaver.
+A clock and solar calendar screensaver.
+
+
 
 Version 0.9 Beta </br>
 © 2018-2021 S. Mason, All rights reserved.
@@ -11,6 +13,8 @@ Version 0.9 Beta </br>
 
 ## Presentation 
 
+- The clock is a straightfoward 12-hour clock.
+- The outer ring is a representation of the solar year. It is oriented such that the winter solstice is at the top, the summer solstice is at the bottom, and the equinoxes are on the sides. The ring will periodically zoom in and out to show you the current day within the month, shown as a triangular dial indicator. 
 - The red dial in the middle shows an approximation of the earth. The center represents the configured latitude and longitude location. The yellow circle represents the sun and its orientation represents its position in the sky. The sun travels around the sphere as the day progresses, and its shadow can be seen in the visualization.
 - Enter your latitude and longitude to configure it for your geographic location. It comes pre-configured for San Francisco. (Note that this does not currently take into account DST.)
 - Quarter and cross-quarter days (e.g. solstices, equinoxes) are shown around he interior. You can toggle between an alternate set of names for these, derived from ancient european names.
