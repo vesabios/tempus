@@ -2,7 +2,7 @@
 
 A sidereal clock and calendar screensaver.
 
-Version 0.9 Beta
+Version 0.9 Beta </br>
 © 2018-2021 S. Mason, All rights reserved.
 
 
