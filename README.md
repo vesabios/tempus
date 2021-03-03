@@ -8,7 +8,7 @@ A clock and solar calendar screensaver.
 Version 0.9 Beta </br>
 © 2018-2021 S. Mason, All rights reserved.
 
-
+For MacOS Versions 10.9 - 10.13 (Hoping to find a fix to make it work on modern MacOS)
 
 ## Download 
 
@@ -34,6 +34,8 @@ This software was written in C++ using <a href="https://libcinder.org/">Cinder</
 
 It is compiled for MacOS Version 10.9 (Mavericks) or higher. There is a Windows version coming at some point.
 
+UPDATE: There is an unresolved bug in Cinder that causes it to show a black screen on MacOS Version 10.15 or higher.
+ 
 It uses OpenGL and is not optimized, and I make no guarantees about whether or not it will heat up your GPU. 
 
 If you have trouble using it or installing it, I'm sorry - I'm not a hardcore app developer by trade.
