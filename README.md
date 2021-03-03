@@ -18,6 +18,7 @@ Version 0.9 Beta </br>
 - The yellow line represents the new calendar year - January 1.
 - The end of the year and the beginning of the year will not match up perfectly on the calendar wheel, with about an extra quarter day's worth of space. That's expected - this gap represents the extra time we have at the end of each year. Cumulatively, this adds up to a whole day every four years. Thus, leap years.
 
+<img src="img/tempus_ssB.jpeg">
 
 
 ## Software
