@@ -12,8 +12,9 @@ Version 0.9 Beta </br>
 
 ## Download 
 
-<a href="Release/">Click this link for the most recent release</a>
+<a href="Release/">Click this link to view all releases</a>
 
+<a id="raw-url" href="https://github.com/downloads/user/tempus/Release/Tempus.saver.zip">Download the file here</a>
 
 ## Presentation 
 
