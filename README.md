@@ -22,7 +22,7 @@ Version 0.9 Beta </br>
 - Enter your latitude and longitude to configure it for your geographic location. It comes pre-configured for San Francisco. (Note that this does not currently take into account DST.)
 - Quarter and cross-quarter days (e.g. solstices, equinoxes) are shown around he interior. You can toggle between an alternate set of names for these, derived from ancient european names.
 - The calendar year is drawn using a solar year  of 365.25 days, with the winter solstice always being at the 12 position. 
-- The yellow line represents the new calendar year - January 1.
+- The yellow line represents the calendar new year - January 1.
 - The end of the year and the beginning of the year will not match up perfectly on the calendar wheel, with about an extra quarter day's worth of space. That's expected - this gap represents the extra time we have at the end of each year. Cumulatively, this adds up to a whole day every four years. Thus, leap years.
 
 <img src="img/tempus_ssB.jpg">
