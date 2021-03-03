@@ -1,5 +1,8 @@
 # T E M P V S
 
+<img src="img/tempus_ssA.jpeg">
+
+
 A sidereal clock and calendar screensaver.
 
 Version 0.9 Beta </br>
