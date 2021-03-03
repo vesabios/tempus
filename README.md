@@ -12,7 +12,7 @@ Version 0.9 Beta </br>
 
 ## Download 
 
-<a download="Release/">Click this link for the most recent release</a>
+<a href="Release/">Click this link for the most recent release</a>
 
 
 ## Presentation 
