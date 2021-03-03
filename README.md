@@ -1,6 +1,6 @@
 # T E M P V S
 
-<img src="img/tempus_ssA.jpeg">
+<img src="img/tempusA.jpeg">
 
 
 A clock and solar calendar screensaver.
@@ -25,7 +25,7 @@ For MacOS Versions 10.9 or higher.
 - The yellow line represents the calendar new year - January 1.
 - The end of the year and the beginning of the year will not match up perfectly on the calendar wheel, with about an extra quarter day's worth of space. That's expected - this gap represents the extra time we have at the end of each year. Cumulatively, this adds up to a whole day every four years. Thus, leap years.
 
-<img src="img/tempus_ssB.jpg">
+<img src="img/tempusB.jpg">
 
 
 ## Software
