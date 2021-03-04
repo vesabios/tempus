@@ -6,7 +6,8 @@
 A clock and solar calendar screensaver.
 
 Version 0.9 Beta </br>
-© 2018-2021 S. Mason, All rights reserved.
+© 2018-2021 S. Mason, All rights reserved.</br>
+@vesabios on Twitter</br>
 
 For MacOS Versions 10.9 or higher.
 
