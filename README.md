@@ -38,16 +38,18 @@ MacOS 10.9+ and Windows (only tested on windows 10, might work on others)
 This software was written in C++ using <a href="https://libcinder.org/">Cinder</a>. It was written sporadically over a period of many years. 
 
 
-# MacOS
+### MacOS
 Runs on MacOS Version 10.9 (Mavericks) or higher. 
 
 To install, open Tempus.saver by double clicking. It should install automatically, but you'll need to open up System Preferences and set it as your default screensaver for it to work.
 
 
-# Windows
+### Windows
 There is now a version for Windows as well. It's only been tested on Windows 10 so far.
 
 To install, download the .msi file and double click on it. The extremely simple installed should copy it to your windows system32 or equivalent folder, which you don't need to worry about. To enable it, go do your display preferences and find the screen saver settings. NOTE: For some reason it doesn't render a preview in the little preview window, it just shows black. 
+
+<br>
 
 If you have trouble using it or installing it, I'm sorry!
 
