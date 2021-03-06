@@ -5,15 +5,19 @@
 
 A clock and solar calendar screensaver.
 
-Version 0.9 Beta </br>
+Version 0.91 Beta </br>
 © 2018-2021 S. Mason, All rights reserved.</br>
 @vesabios on Twitter</br>
 
-For MacOS Versions 10.9 or higher.
+MacOS 10.9+ and Windows (only tested on windows 10, might work on others)
 
 ## Download 
 
-<a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus.saver.zip?raw=true">Download the file here</a>
+<a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus.saver.zip?raw=true">Click here for the MacOS version</a>
+<br>
+
+<a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus_0.91.msi?raw=true">Click here for the Windows version</a>
+
 
 ## Presentation 
 
@@ -33,7 +37,17 @@ For MacOS Versions 10.9 or higher.
 
 This software was written in C++ using <a href="https://libcinder.org/">Cinder</a>. It was written sporadically over a period of many years. 
 
-It is compiled for MacOS Version 10.9 (Mavericks) or higher. There is a Windows version coming at some point.
+
+# MacOS
+Runs on MacOS Version 10.9 (Mavericks) or higher. 
+
+To install, open Tempus.saver by double clicking. It should install automatically, but you'll need to open up System Preferences and set it as your default screensaver for it to work.
+
+
+# Windows
+There is now a version for Windows as well. It's only been tested on Windows 10 so far.
+
+To install, download the .msi file and double click on it. The extremely simple installed should copy it to your windows system32 or equivalent folder, which you don't need to worry about. To enable it, go do your display preferences and find the screen saver settings. NOTE: For some reason it doesn't render a preview in the little preview window, it just shows black. 
 
 If you have trouble using it or installing it, I'm sorry!
 
