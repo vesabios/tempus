@@ -13,7 +13,7 @@ MacOS 10.9+ and Windows (only tested on windows 10, might work on others)
 
 ## Download 
 
-<a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus.saver.zip?raw=true">Click here for the MacOS version</a>
+<a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus_0.91.saver.zip?raw=true">Click here for the MacOS version</a>
 <br>
 
 <a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus_0.91.msi?raw=true">Click here for the Windows version</a>
