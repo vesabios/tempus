@@ -18,6 +18,17 @@ MacOS 10.9+ and Windows (only tested on windows 10, might work on others)
 
 <a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus_0.91.msi?raw=true">Click here for the Windows version</a>
 
+## Release History
+
+### 0.9
+Initial beta release.
+
+### 0.91
+- Display and resolution bugs discovered and fixed after running on multiple machines
+- Fixed preview window issue on Mac
+- Initial Windows release!
+- Cleaned up some culling logic
+
 
 ## Presentation 
 
