@@ -18,23 +18,19 @@ MacOS 10.9+ and Windows (only tested on windows 10, might work on others)
 
 <a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus_0.91.msi?raw=true">Click here for the Windows version</a>
 
-## Release History
-
-### 0.9
-Initial beta release.
-
-### 0.91
-- Display and resolution bugs discovered and fixed after running on multiple machines
-- Fixed preview window issue on Mac
-- Initial Windows release!
-- Cleaned up some culling logic
 
 
-## Presentation 
+## About Tempus 
 
-- The clock is a straightfoward 12-hour clock.
-- The outer ring is a representation of the solar year. It is oriented such that the winter solstice is at the top, the summer solstice is at the bottom, and the equinoxes are on the sides. The ring will periodically zoom in and out to show you the current day within the month, shown as a triangular dial indicator. 
-- The red dial in the middle shows an approximation of the earth. The center represents the configured latitude and longitude location. The yellow circle represents the sun and its orientation represents its position in the sky. The sun travels around the sphere as the day progresses, and its shadow can be seen in the visualization.
+This is a project I've been working on for several years, which started out as a printed calendar that I made for calendar year 2017 I believe. The idea behind it is that I am personally more interested in time and its progression in different ways than we are generally shown in traditional clocks and calendars. To me, the biggest marker of the year is the length of the days, which is determined but the Earth's position around the sun (and the tilt, etc). Days are longer in the summer and shorter in the winter. More specifically, they are shortest on the Winter Solstice and longest on the Summer solstice, while the Autumn and Spring Equinoxes mark the halfway points where the days are getting shorter or longer, respectivaly, at the highest rate. I wanted to see a calendar where these changes in the amount of daylight we have are the primary axis of information being presented. This led me to want to see a calendar represented as a circle, with the solstices and other solar events driving the orientation of the design. 
+
+As for the clock itself, it's fairly straightforward. It's good to just be able to read the time. However, I also really wanted to have an understanding of where the sun is at in the sky. The sunrise and sunset times change throughout the year, relative to where we are on the planet surface, etc. The clock visualizes this - the red dial in the middle shows an approximation of the earth. The center represents the configured latitude and longitude location. The yellow circle represents the sun and its orientation represents its position in the sky. The sun travels around the sphere as the day progresses, and its shadow can be seen. 
+
+I started this project a few years ago and would load it up again basically once a year, around the new year, to work on it some more, but it took a long time to get everything to a point where I felt that the visual design was good enough, and then there was quite a bit more work to make it stable, fix memory leaks, optimize the rendering (still not that great really), build proper configuration panels, and finally to port the entire thing to windows (not to mention setting up this page). In any case it's a labor of love, I hope you enjoy it. Thanks!
+
+
+### Additional Notes
+
 - Enter your latitude and longitude to configure it for your geographic location. It comes pre-configured for San Francisco. (Note that this does not currently take into account DST.)
 - Quarter and cross-quarter days (e.g. solstices, equinoxes) are shown around he interior. You can toggle between an alternate set of names for these, derived from ancient european names.
 - The calendar year is drawn using a solar year  of 365.25 days, with the winter solstice always being at the 12 position. 
@@ -47,6 +43,19 @@ Initial beta release.
 ## Software
 
 This software was written in C++ using <a href="https://libcinder.org/">Cinder</a>. It was written sporadically over a period of many years. 
+
+
+## Release History
+
+### 0.9
+Initial beta release.
+
+### 0.91
+- Display and resolution bugs discovered and fixed after running on multiple machines
+- Fixed preview window issue on Mac
+- Initial Windows release!
+- Cleaned up some culling logic
+
 
 
 ### MacOS
