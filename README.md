@@ -18,11 +18,16 @@ MacOS 10.9+ and Windows (only tested on windows 10, might work on others)
 
 <a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus_0.91.msi?raw=true">Click here for the Windows version</a>
 
+<img src="img/tempusB.jpg">
 
 
 ## About Tempus 
 
 This is a project I've been working on for a few years, starting out as a printed calendar that I made in 2017. The idea behind it is that I am personally more interested in time and its progression in different ways than we are generally shown in traditional clocks and calendars. To me, the biggest marker of the year is the length of the days, which is determined by the Earth's position around the sun (and the tilt, etc). Days are longer in the summer and shorter in the winter. More specifically, they are shortest on the Winter Solstice and longest on the Summer solstice, while the Autumn and Spring Equinoxes mark the halfway points where the days are getting shorter or longer, respectivaly, at the highest rate. I wanted to see a calendar where these changes in the amount of daylight we have are the primary axis of information being presented. This led me to want to see a calendar represented as a circle, with the solstices and other solar events driving the orientation of the design. 
+
+
+<img src="img/ANNO_2017.jpg">
+</i>The original printed calendar.</i>
 
 As for the clock itself, it's fairly straightforward. It's good to just be able to read the time. However, I also really wanted to have an understanding of where the sun is at in the sky. The sunrise and sunset times change throughout the year, relative to where we are on the planet surface, etc. The clock visualizes this - the red dial in the middle shows an approximation of the earth. The center represents the configured latitude and longitude location. The yellow circle represents the sun and its orientation represents its position in the sky. The sun travels around the sphere as the day progresses, and its shadow can be seen. 
 
@@ -37,7 +42,8 @@ I started this project a few years ago and would load it up again basically once
 - The yellow line represents the calendar new year - January 1.
 - The end of the year and the beginning of the year will not match up perfectly on the calendar wheel, with about an extra quarter day's worth of space. That's expected - this gap represents the extra time we have at the end of each year. Cumulatively, this adds up to a whole day every four years. Thus, leap years.
 
-<img src="img/tempusB.jpg">
+
+
 
 
 ## Software
