@@ -28,6 +28,7 @@ This is a project I've been working on for a few years, starting out as a printe
 <img src="img/ANNO_2017.jpg">
 *The original printed calendar is available <a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/ANNO_2017.pdf?raw=true">here</a>*
 <br/>
+<br/>
 
 
 As for the clock itself, it's fairly straightforward. It's good to just be able to read the time. However, I also really wanted to have an understanding of where the sun is at in the sky. The sunrise and sunset times change throughout the year, relative to where we are on the planet surface, etc. The clock visualizes this - the red dial in the middle shows an approximation of the earth. The center represents the configured latitude and longitude location. The yellow circle represents the sun and its orientation represents its position in the sky. The sun travels around the sphere as the day progresses, and its shadow can be seen. 
