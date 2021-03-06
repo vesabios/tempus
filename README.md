@@ -47,7 +47,7 @@ To install, open Tempus.saver by double clicking. It should install automaticall
 ### Windows
 There is now a version for Windows as well. It's only been tested on Windows 10 so far.
 
-To install, download the .msi file and double click on it. The extremely simple installed should copy it to your windows system32 or equivalent folder, which you don't need to worry about. To enable it, go do your display preferences and find the screen saver settings. NOTE: For some reason it doesn't render a preview in the little preview window, it just shows black. 
+To install, download the .msi file and double click on it. The extremely simple installer should copy it to your windows system32 or equivalent folder, which you don't need to worry about. To enable it, go do your display preferences and find the screen saver settings. NOTE: For some reason it doesn't render a preview in the little preview window, it just shows black. 
 
 <br>
 
