@@ -1,15 +1,16 @@
 # T E M P V S
 
-<img src="img/tempusA.jpeg">
 
 
 A clock and solar calendar screensaver.
 
-Version 0.91 Beta </br>
+Latest release - version 0.91 Beta </br>
+
 © 2018-2021 S. Mason, All rights reserved.</br>
 @vesabios on Twitter</br>
 
-MacOS 10.9+ and Windows (only tested on windows 10, might work on others)
+<img src="img/tempusA.jpeg">
+
 
 ## Download 
 
