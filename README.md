@@ -11,6 +11,7 @@ Latest release - version 0.91 Beta </br>
 
 <img src="img/tempusA.jpeg">
 
+<img src="img/tempusB.jpg">
 
 ## Download 
 
@@ -19,7 +20,6 @@ Latest release - version 0.91 Beta </br>
 
 <a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/Tempus_0.91.msi?raw=true">Click here for the Windows version</a>
 
-<img src="img/tempusB.jpg">
 
 
 ## About Tempus 
