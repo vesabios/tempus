@@ -30,7 +30,6 @@ As for the clock itself, it's fairly straightforward. It's good to just be able 
 
 I started this project a few years ago and would load it up again basically once a year, around the new year, to work on it some more, but it took a long time to get everything to a point where I felt that the visual design was good enough, and then there was quite a bit more work to make it stable, fix memory leaks, optimize the rendering (still not that great really), build proper configuration panels, and finally to port the entire thing to windows (not to mention setting up this page). In any case it's a labor of love, I hope you enjoy it. Thanks!
 
-<img src="img/ANNO_2017.jpg">
 *The original printed calendar is available <a id="raw-url" href="https://github.com/vesabios/tempus/blob/main/Release/ANNO_2017.pdf?raw=true">here</a>*
 <br/>
 <br/>
